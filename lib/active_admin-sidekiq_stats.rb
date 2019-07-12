@@ -1,1 +1,1 @@
-require 'active_admin/sidekiq-stats'
+require 'active_admin/sidekiq_stats'
