@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'active_admin-sidekiq_stats'
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   s.licenses = ['MIT']
   s.date = '2019-07-12'
   s.summary = 'Active Admin component to display Sidekiq statistics.'
